@@ -48,7 +48,7 @@ El usuario puede realizar las siguientes operaciones:
     │
     ├── README.md
     ├── Informe-MO21016-RM24001.pdf
-    ├── Enlaces.txt # Enlace al video de presentación
+    ├── Enlaces.txt
 
 
 
