@@ -147,8 +147,6 @@ public class ContactList {
         }
     }
 
-
-
     private boolean isValidPhone(String phone) {
         if (!phone.matches("\\d{8}")) {
             System.out.println("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");

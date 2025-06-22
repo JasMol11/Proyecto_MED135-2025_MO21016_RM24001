@@ -10,7 +10,7 @@ Aprender el uso e implementación de listas enlazadas simples en Java, programan
 
 ---
 
-## 👨‍💻 AUTORES DEL PROYECTO 👨‍
+## 👨‍💻 AUTORES DEL PROYECTO 👨‍💻
 
 - **Jason Alexander Molina Ortiz** - MO21016
 - **Cindy Ariana Reyes Molina** - RM24001
